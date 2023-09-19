@@ -1,11 +1,10 @@
 # Setup
 title: Jeongmin Han
-description: A simple, beautiful, and powerful Jekyll theme for blogs
-url: https://vszhub.github.io
-avatar: /avatar.jpeg
+description: Welcome to my blog.
+myphoto: /images/me.jpg
 paginate: 5
 permalink: pretty
-cover_image: /bg.jpeg
+cover_image: /images/bg.jpg
 
 # Gems
 plugins:

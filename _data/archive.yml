@@ -1,9 +1,10 @@
+# blog 메뉴의 탭 리스트
 - type: dates
   title: Dates
   url: /dates/
-#- type: categories
-#  title: Categories
-#  url: /categories/
+# - type: categories
+#   title: Categories
+#   url: /categories/
 - type: tags
   title: Tags
   url: /tags/
